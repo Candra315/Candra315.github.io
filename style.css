@@ -1,0 +1,11 @@
+body {
+  min-height: 300px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-image: url(img/green-background-free-download-free-vector.jpg);
+}
+
+.About {
+  background-color: rgb(16, 214, 174);
+}
